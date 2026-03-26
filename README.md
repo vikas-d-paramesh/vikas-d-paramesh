@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪶I’m currently working on DSA in Java and building small projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web or AI projects.<br><br>🤝 I’m looking for help with improving problem-solving and project building.<br><br>💬 Ask me about Java, DSA practice, and web development.<br><br>⚡ Fun fact: I believe small daily progress can change life.
+🪶I’m currently working on DSA in Java and building small projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web or AI projects.<br><br>🤝 I’m looking for help with improving problem-solving and project building.<br><br>💬 Ask me about Java, DSA practice, and web development.<br><br>
 
 
 ## 🌐 Socials:
