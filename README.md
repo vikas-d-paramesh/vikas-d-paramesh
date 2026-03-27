@@ -1,7 +1,5 @@
 # 💫 About Me:
-🪶I’m currently working on DSA in Java and building small projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web or AI projects.<br><br>🤝 I’m looking for help with improving problem-solving and project building.<br><br>💬 Ask me about Java, DSA practice, and web development.<br><br>
-
-
+🪶I’m currently working on DSA in Java and building small projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web or AI projects.<br><br>🤝 I’m looking for help with improving problem-solving and project building.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-d-paramesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikas.d.paramesh@gmail.com) 
 
